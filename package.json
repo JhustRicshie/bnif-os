@@ -1,0 +1,23 @@
+{
+  "name": "bnif-os",
+  "version": "0.0.1",
+  "description": "a Discord Collab Bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhustRicshie/bnif-os.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JhustRicshie/bnif-os/issues"
+  },
+  "homepage": "https://github.com/JhustRicshie/bnif-os#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "mongoose": "^5.3.14"
+  }
+}
